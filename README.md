@@ -7,4 +7,6 @@ REQUIREMENTS
 
 pip install torch transformers PyQt6
 
+
+
 I'm srry for my bad english, I just started to learn it xD
